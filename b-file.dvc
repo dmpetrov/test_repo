@@ -1,0 +1,7 @@
+md5: 6e836d5885e3772c835244004bec3a95
+outs:
+- md5: 1b8c684c92d433c657920120981a9584
+  path: b-file
+  cache: true
+  metric: false
+  persist: false
